@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "a2432685c8d3ddfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "b912955c3bf8425c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5047b1980c2793e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "philosphy/Argumentieren/3. Argumente.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Argumente"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ec7e288906e2bf07",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc3b7f22eab1970f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bcb64c34bcb91da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "15bc2a432f513592",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "76c267125106077e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be7c2719e65adae1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7609a690861eb54d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3461ae38660dcda1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "philosphy/Argumentieren/3. Argumente.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 3. Argumente"
+            }
+          },
+          {
+            "id": "532daaca48d5ef50",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "philosphy/Argumentieren/3. Argumente.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 3. Argumente"
+            }
+          },
+          {
+            "id": "99c98c677356bac2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f1fc664dc338370a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "philosphy/Argumentieren/3. Argumente.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 3. Argumente"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f1fc664dc338370a",
+  "lastOpenFiles": [
+    "philosphy/Argumentieren/3. Argumente.md",
+    "philosphy/Argumentieren/2. Kritik.md",
+    "philosphy/Argumentieren/1. Methoden.md",
+    "Latin/03.10.2025.md",
+    "Latin/Untitled.md",
+    "philosphy/Argumentieren",
+    "philosphy/2025-10-07.md"
+  ]
+}
